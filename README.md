@@ -44,6 +44,7 @@
 - [ ] [ink](/blog/ink.md)
 - [typecho](/blog/typecho.md)
 - [ ] [wiki in box](/blog/wiki.md)
+- [博客Mysql代码](/blog/sql.md)
 
 ## html-css 
 - [301的几种实现方式](/html-css/301.md)
