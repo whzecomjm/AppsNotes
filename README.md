@@ -2,7 +2,7 @@
 
 内容包含读书笔记（亦可在我的博客[Lifecho](http://me.whzecomjm.com)找到）以及一些软件笔记。
 
-大部分为自己整理的笔记，但也有一小部分为网络摘录的笔记。
+大部分为自己整理的笔记，但也有一小部分为网络摘录的笔记（用打勾做标记）。
 
 ## 读书笔记
 
@@ -17,12 +17,12 @@
 ## 软件笔记
 
 - [Git 笔记](/git/Git.md)
-- [Git 指令大全](/git/git_toturial)
+- [ ] [Git 指令大全](/git/git_toturial)
 - [Notepad++ 配置 Markdown 实时预览](/softwares/notepad++/notepad-markdown.md)
 - [Notepad++ 常用运行脚本](/softwares/notepad++/notepad-scripts.md)
 - [Notepad++ 编辑yml文件tab失效的解决](/softwares/notepad++/notepad-tab.md)
 - [Sublime Text 使用笔记](/softwares/sublime text/sublime.md)
-- [Sublime Text 快捷键](/softwares/sublime text/Shortcuts.textile)
+- [ ] [Sublime Text 快捷键](/softwares/sublime text/Shortcuts.textile)
 - [Rime输入法的配置](/softwares/rime-input.md)
 - [Sage 笔记](/softwares/sage.md)
 - [Sed 笔记](/softwares/sed.md)
@@ -41,7 +41,7 @@
 ## html-css 
 - [301的几种实现方式](/html-css/301.md)
 - [Copyleft 符号](/html-css/copyleft.md)
-- [wikipedia-stylesheets](/html-css/wikipedia-stylesheets)
+- [ ] [wikipedia-stylesheets](/html-css/wikipedia-stylesheets)
 
 ## 其它
-- [awesome-open-science](awesome-open-science.md)
+- [ ] [awesome-open-science](awesome-open-science.md)
