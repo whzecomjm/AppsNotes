@@ -1,0 +1,72 @@
+h1. Sublime Text 2 - Useful Shortcuts (PC)
+
+Loosely ordered with the commands I use most towards the top. Sublime also offer "full documentation":http://www.sublimetext.com/docs/2/.
+
+h2. Editing
+
+| *Ctrl+C* | copy current line (if no selection) |
+| *Ctrl+X* | cut current line (if no selection) |
+| *Ctrl+⇧+K*| delete line |
+| *Ctrl+↩* | insert line after |
+| *Ctrl+⇧+↩* | insert line before |
+| *Ctrl+⇧+↑* | move line (or selection) up |
+| *Ctrl+L* | select line (repeat to select next lines) |
+| *Ctrl+D* | select word (repeat select others occurrences in context for multiple editing) |
+| *Ctrl+M* | jump to closing bracket for current code, repeat to jump to opening bracket |
+| *Ctrl+⇧+M* | select all contents of the current brackets (curly brackets, square brackets, parentheses) |
+| *Ctrl+KK* | delete from cursor to end of line |
+| *Ctrl+K+⌫* | delete from cursor to start of line |
+| *Ctrl+]* | indent current line(s) |
+| *Ctrl+[* | un-indent current line(s) |
+| *Ctrl+⇧+D* | duplicate line(s) |
+| *Ctrl+J* | join line below to the end of the current line |
+| *Ctrl+ /* | comment/un-comment current line |
+| *Ctrl+⇧+/* | block comment current selection |
+| *Ctrl+Y* | redo, or repeat last keyboard shortcut command |
+| *Ctrl+⇧+V* | paste and indent correctly |
+| *Ctrl+Space* | select next auto-complete suggestion |
+| *Ctrl+U* | soft undo (somehow undoes your movements; it jumps to your last change before undoing it when you repeat this command) |
+
+h2. Navigation/Goto Anywhere
+
+| *Ctrl+P* | quick-open files by name in your project (doesn't seem to need an actual project set up, it just searches in the directories around the currently-opened file |
+| *Ctrl+R* | goto symbol (functions and classes) in the file. Same as *Ctrl+P*, then type *@*|
+| *Ctrl+;* | goto word in current file. Same as *Ctrl+P*, then type *#*|
+| *Ctrl+G* | goto line in current file. Same as *Ctrl+P*, then type *:*|
+
+h2. General
+
+| *Ctrl+⇧+P* | command prompt |
+| *Ctrl+KB* | toggle side bar |
+
+h2. Find/Replace
+
+| *Ctrl+F* | find |
+| *Ctrl+H* | replace |
+| *Ctrl+⇧+F* | find in files |
+
+h2. Tabs
+
+| *Ctrl+⇧+t* | open last closed tab (just like in your browser) |
+| *Ctrl+PgDn*| cycle down through open tabs, cycle up with Ctrl+PgUp |
+| *Ctrl+⇆* | cycle through last tabs (repeat to go back further in history) |
+
+h2. Split window
+
+| *Alt+⇧+2* | split into two columns |
+| *Alt+⇧+1* | revert to single column |
+| *Alt+⇧+5* | grid (4 groups) |
+| *Ctrl+[1,2,3,4]* | jump to "group" (pane) |
+| *Ctrl+⇧+[1,2,3,4]* | move file to specified group |
+
+h2. Bookmarks
+
+| *Ctrl+F2* | toggle bookmark |
+| *F2* | next bookmark |
+| *⇧+F2* | previous bookmark |
+| *Ctrl+⇧+F2* | clear bookmarks |
+
+h2. Text manipulation
+
+| *Ctrl+KU* | upper case |
+| *Ctrl+KL* | lower case |
