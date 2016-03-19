@@ -53,3 +53,7 @@
 
 ## 其它
 - [ ] [awesome-open-science](awesome-open-science.md)
+- [unblock youku pac](/softwares/youku.md)
+- [Openshift SSH](/softwares/openshift-ssh.md)
+- [同步本地文件夹](/softwares/sync.md)
+- [右键新建菜单中添加 Md文件类型](/softwares/new-md-file.md)
