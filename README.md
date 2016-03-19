@@ -24,6 +24,7 @@
 - [Sublime Text 使用笔记](/softwares/sublime text/sublime.md)
 - [ ] [Sublime Text 快捷键](/softwares/sublime text/Shortcuts.textile)
 - [Rime输入法的配置](/softwares/rime-input.md)
+- [VirtualBox/Linux 笔记](/softwares/virtualbox-linux.md)
 - [Sage 笔记](/softwares/sage.md)
 - [Sed 笔记](/softwares/sed.md)
 
