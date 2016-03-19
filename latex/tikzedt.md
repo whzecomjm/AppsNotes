@@ -36,7 +36,7 @@ TikzEdt 是一款“所见即所得”的 Tikz 前端编辑器。除了能直接
 	\draw [<->] (0,4) -- (0,0) -- (4,0);
 	\end{tikzpicture}
 
-<center>![](/figs/tut_line2.png)</center>
+![](/figs/tut_line2.png)
 
 此外可以通过加入“属性” `dashed` 和 `dotted` 得到虚线和“点线”，加入颜色名比如 `[red]` 得到变色后的图形。
 
@@ -52,7 +52,7 @@ TikzEdt 是一款“所见即所得”的 Tikz 前端编辑器。除了能直接
 	\draw[very thick] (0,0) to [out=90,in=195] (2,1.5);
 	\end{tikzpicture}
 
-<center>![](/figs/tut_curve.png)</center>
+![](/figs/tut_curve.png)
 
 同样 Tikz 也支持数学画图函数，用法如下：
 
@@ -91,7 +91,7 @@ Tikz 支持 e, pi 等常数，支持函数如下：
       \end{tikzpicture}
       \end{Huge}
 	  
-<center>![](/figs/tut_commute.png)</center>
+![](/figs/tut_commute.png)
 
 
 ## 其他内容
