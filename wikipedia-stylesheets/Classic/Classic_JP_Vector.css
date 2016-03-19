@@ -1,0 +1,23 @@
+/* Author: Stark Shaw */
+/* Date: Sep 2 2015 */
+
+/* Designed for Japanese for skin “Vector”. */
+
+body, h1, h2, h2 span {
+	font-family: 'Baskerville', 'Georgia', 'Hiragino Mincho Pro', 'MS PMincho', 'MS Mincho', 'Songti SC', 'SimSun-ExtB', 'SimSun', serif !important;
+}
+
+/*
+Baskerville – The main font for western languages.
+Georgia – Concerning for Windows.
+Hiragino Mincho Pro – The default serif Japanese font in OS X.
+MS PMincho – The default serif Japanese font since Windows 95.
+MS Mincho – The default serif Japanese font since Windows 3.1.
+Songti SC – The default serif Simplified Chinese font in OS X.
+SimSun-ExtB – The default serif Simplified Chinese font since Windows Vista.
+SimSun – The default serif Simplified Chinese font since Windows 95.
+
+serif – The final fallback.
+
+You may add, revise or delete entries according to your taste.
+*/

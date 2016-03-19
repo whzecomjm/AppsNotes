@@ -1,0 +1,33 @@
+/* Author: Stark Shaw */
+/* Date: Oct 11 2015 */
+
+/* Designed for Simplified Chinese for skin “Vector”. */
+
+body, h1, h2, h2 span {
+	font-family: 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'Hiragino Sans GB', 'Noto Sans CJK SC', 'PingFang SC', 'Microsoft Yahei', 'Heiti SC', sans-serif; !important
+}
+
+/*
+Helvetica Neue – Pre-installed in OS X.
+Helvetica – Pre-installed in OS X.
+Segoe UI – Pre-installed in Windows.
+Hiragino Sans GB – Pre-installed in OS X.
+Noto Sans CJK SC – Simplified Chinese version of Noto Sans CJK.
+PingFang SC – The new UI font family since OS X El Capitan and iOS 9 for Simplified Chinese.
+Microsoft Yahei – Pre-installed in Windows.
+Heiti SC – Default UI font of Simplified Chinese version of iOS (before iOS9).
+
+sans-serif – The final fallback.
+
+You may add, revise or delete entries according to your taste.
+*/
+
+pre {
+	font-family: 'Source Code Pro', 'Menlo', 'Monaco', monospace;
+}
+
+/* This part is for pre-formatted text, or code.
+Source Code Pro – A free monospace font by Adobe Inc.
+Menlo – Pre-installed in OS X.
+Monaco – Pre-installed in OS X.
+*/

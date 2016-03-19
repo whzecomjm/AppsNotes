@@ -1,0 +1,21 @@
+/* Author: Stark Shaw */
+/* Date: Sep 2 2015 */
+
+/* Designed for Simplified Chinese for skin “Vector”. */
+
+body, h1, h2, h2 span {
+	font-family: 'Baskerville', 'Georgia', 'Songti SC', 'Hiragino Mincho Pro', 'SimSun-ExtB', 'SimSun', serif !important;
+}
+
+/*
+Baskerville – The main font for western languages.
+Georgia – Concerning for Windows.
+Songti SC – The default serif Simplified Chinese font in OS X.
+Hiragino Mincho Pro – The default serif Japanese font in OS X.
+SimSun-ExtB – The default serif Simplified Chinese font after Windows Vista.
+SimSun – The default serif Simplified Chinese font after Windows 95.
+
+serif – The final fallback.
+
+You may add, revise or delete entries according to your taste.
+*/

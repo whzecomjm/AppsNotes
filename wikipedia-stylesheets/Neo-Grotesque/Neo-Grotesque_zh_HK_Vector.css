@@ -1,0 +1,33 @@
+/* Author: Stark Shaw */
+/* Date: Oct 11 2015 */
+
+/* Designed for Traditional Chinese (Hong Kong) for skin “Vector”. */
+
+body, h1, h2, h2 span {
+	font-family: 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'Noto Sans CJK TC', 'PingFang HK', 'Hiragino Sans GB', 'Microsoft Jhenghei', 'Heiti TC', sans-serif; !important
+}
+
+/*
+Helvetica Neue – Pre-installed in OS X.
+Helvetica – Pre-installed in OS X.
+Segoe UI – Pre-installed in Windows.
+Noto Sans CJK TC – Traditional Chinese version of Noto Sans CJK.
+PingFang HK – The new UI font family since OS X El Capitan and iOS 9 for Traditional Chinese (Hong Kong).
+Hiragino Sans GB – Pre-installed Simplified Chinese font family in OS X.
+Microsoft Jhenghei – Pre-installed in Windows.
+Heiti TC – Default UI font of Traditional Chinese version of iOS (before iOS 9).
+
+sans-serif – The final fallback.
+
+You may add, revise or delete entries according to your taste.
+*/
+
+pre {
+	font-family: 'Source Code Pro', 'Menlo', 'Monaco', monospace;
+}
+
+/* This part is for pre-formatted text, or code.
+Source Code Pro – A free monospace font by Adobe Inc.
+Menlo – Pre-installed in OS X.
+Monaco – Pre-installed in OS X.
+*/
