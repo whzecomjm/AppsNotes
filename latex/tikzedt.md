@@ -1,7 +1,5 @@
 # TikzEdt
 
-[toc]
-
 [Tikz](http://www.texample.net/tikz/) 是基于 PGF 一个矢量图片生成的 LaTeX 宏包，可以用于画包括函数图、几何图形、交换图、树形图和文档框架设计等等。所以，可以在 tex 文件中直接插入所需要的图片。不过，对于初学者，可能并不好直接使用这样一个每次都需要编译 tex文件的宏包。另一方面，对于我写博客来说的话，如果能直接生成图片（透明底布）会显得更加方便。一个令人兴奋的消息是我找到了一个十分优秀的软件来使用 Tikz —— [TikzEdt](http://www.tikzedt.org/)。 
 
 TikzEdt 是一款“所见即所得”的 Tikz 前端编辑器。除了能直接调用 LaTeX 中的 Tikz 宏包（所以要安装 MikTex 等 LaTeX 发行包）以外，还能同时看到输出结果。并且， TikzEdt 能直接导出 jpg, png 等格式的图片，png 格式图片还是透明底布的。除此之外， TikEdt 也支持一定量的“纯鼠标操作”构图。
@@ -38,7 +36,7 @@ TikzEdt 是一款“所见即所得”的 Tikz 前端编辑器。除了能直接
 	\draw [<->] (0,4) -- (0,0) -- (4,0);
 	\end{tikzpicture}
 
-<center>![](/imgs/math/tut_line2.png)</center>
+<center>![](/figs/tut_line2.png)</center>
 
 此外可以通过加入“属性” `dashed` 和 `dotted` 得到虚线和“点线”，加入颜色名比如 `[red]` 得到变色后的图形。
 
@@ -54,7 +52,7 @@ TikzEdt 是一款“所见即所得”的 Tikz 前端编辑器。除了能直接
 	\draw[very thick] (0,0) to [out=90,in=195] (2,1.5);
 	\end{tikzpicture}
 
-<center>![](/imgs/math/tut_curve.png)</center>
+<center>![](/figs/tut_curve.png)</center>
 
 同样 Tikz 也支持数学画图函数，用法如下：
 
@@ -93,7 +91,7 @@ Tikz 支持 e, pi 等常数，支持函数如下：
       \end{tikzpicture}
       \end{Huge}
 	  
-<center>![](/imgs/math/tut_commute.png)</center>
+<center>![](/figs/tut_commute.png)</center>
 
 
 ## 其他内容
