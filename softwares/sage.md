@@ -1,9 +1,7 @@
 Sage简单教程
 ===
 
-[toc]
-
-[Sage](http://www.sagemath.org/) 是一个开源的数学软件系统，它建立在编程语言 Python 之上。它最初被开发用于数学研究，之后演进为一个强大的数学工具。Sage 是一个基于GPL协议的开源数学软件。它使用Python作为通用接口，将现有的许多开源软件如 NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R 等软件包整合在一起，构建一个统一的计算平台。<!--more-->
+[Sage](http://www.sagemath.org/) 是一个开源的数学软件系统，它建立在编程语言 Python 之上。它最初被开发用于数学研究，之后演进为一个强大的数学工具。Sage 是一个基于GPL协议的开源数学软件。它使用Python作为通用接口，将现有的许多开源软件如 NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R 等软件包整合在一起，构建一个统一的计算平台。
 
 Sage 官方有比较详尽的使用手册，中文的教程有168翻译的 [sage tutorial 中文版](http://www.ai7.org/wp/wp-content/uploads/2010/01/pdf.zip)。
 
