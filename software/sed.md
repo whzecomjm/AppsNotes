@@ -1,8 +1,6 @@
 Sed 学习笔记
 ===
 
-[toc]
-
 ## 内置Cat
 
 首先Sed自带cat（而Git 也自带Sed,Cat等linux命令），先简单介绍一下cat的主要三大功能：
