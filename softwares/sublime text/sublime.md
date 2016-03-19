@@ -1,7 +1,5 @@
 # Sublime Text 使用笔记
 
-[toc]
-
 ## 推荐插件
 
 - [Pandoc](https://github.com/tbfisher/sublimetext-Pandoc): Pandoc插件
@@ -57,6 +55,23 @@ Sublime Text(3)通过Package control安装MarkdownEditing后，提示此错误�
 > 选择：   
 > set syntax：MultiMarkdown   
 > 解决！
+
+## 用户配置文件
+
+    "color_scheme": "Packages/Nil-Theme/Sanakan.tmTheme",
+    "default_encoding": "UTF-8",
+    "font_size": 13.5,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage",
+        "Markdown"
+    ],
+    "update_check": false,
+    "word_wrap": "auto",
+    "hot_exit": false,
+    "remember_open_files": false
+
 
 ## 安装Git后无法使用
 win7下在sublime text 2/3中安装完git插件后，在显示所在分支的地方出现乱码。解决：把git的路径放到环境变量PATH中，然后重启。
