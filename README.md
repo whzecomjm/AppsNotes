@@ -37,6 +37,13 @@
 - [Texmacs 笔记](/latex/texmacs.md)
 - [Tikzedt](/latex/tikzedt.md)
 
+## 博客程序
+- [ ] [gor](/blog/gor.md)
+- [hexo](/blog/exo.md)
+- [ ] [hugo](/blog/hugo.md)
+- [ ] [ink](/blog/ink.md)
+- [typecho](/blog/typecho.md)
+- [ ] [wiki in box](/blog/wiki.md)
 
 ## html-css 
 - [301的几种实现方式](/html-css/301.md)
