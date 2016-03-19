@@ -1,7 +1,5 @@
 # Notepad++ 常用运行脚本
 
-[toc]
-
 ## Pandoc 包括模板
 ```
 cmd /c pandoc -s "$(FULL_CURRENT_PATH)"  -o  "$(CURRENT_DIRECTORY)\$(NAME_PART).pdf" --template=template.tex 
