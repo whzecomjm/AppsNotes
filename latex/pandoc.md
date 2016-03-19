@@ -1,8 +1,6 @@
 # Pandoc
 
-[toc]
-
-[Pandoc](http://pandoc.org/)是文本格式转换的“瑞士军刀”，它可以让很多文档源文件之间转换。现在我用 Markdown 已经十分熟练了，具体的 Markdown 语言的介绍见先前的一篇[Markdown简介](soft:latex:markdown)。下面分两个部分讲一讲 Pandoc，第一部分是 Pandoc 的使用，第二是 Pandoc's Markdown 的一些新的书写规则。
+[Pandoc](http://pandoc.org/)是文本格式转换的“瑞士军刀”，它可以让很多文档源文件之间转换。现在我用 Markdown 已经十分熟练了，具体的 Markdown 语言的介绍见先前的一篇[Markdown简介](/latex/markdown.md)。下面分两个部分讲一讲 Pandoc，第一部分是 Pandoc 的使用，第二是 Pandoc's Markdown 的一些新的书写规则。
 
 ## Pandoc的使用
 
