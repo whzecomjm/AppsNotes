@@ -63,3 +63,4 @@
 - [mount命令（用来挂载硬盘或镜像等）](http://www.cnblogs.com/itech/archive/2009/08/07/1541061.html)
 - [减小virtualbox虚拟硬盘vdi文件的大小](http://www.sijitao.net/1777.html)
 - [Linux平台常用软件总结](http://www.jianshu.com/p/4adbfd83b29f)
+- [Linux笔记by chenzhiwei](https://github.com/chenzhiwei/linux)
