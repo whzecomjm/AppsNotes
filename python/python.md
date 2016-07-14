@@ -41,3 +41,32 @@ Python学习笔记
 则L2=[2,3,4]
 
 ## Tab对齐推荐改为4个空格
+
+## 一个简单的程序
+
+    while True:
+        reply = input("Enter text:")
+        if reply == "stop": 
+            break
+        elif not reply.isdigit ():
+            print (reply * 3, ", you can input stop to exit!")
+        else:
+            num = int(reply)
+            if num < 20:
+                print ("low! choose another number.")
+            else:
+                print (num**2)
+    print ("bye!")
+    input ()
+
+## 爬虫
+
+    import urllib.request,io,os,sys
+    req = urllib.request.Request("http://www.vaayne.com/2015/12/08/ciowstpdg000eyt3l737tei1z/")
+    f = urllib.request.urlopen(req)
+    s = f.read()
+    s = s.decode('utf-8','ignore')
+    mdir = sys.path[0]+'/'
+    file = open(mdir+'whz.html','a',1,'utf-8')
+    file.write(s)
+    file.close()
