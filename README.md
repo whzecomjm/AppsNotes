@@ -27,7 +27,7 @@
 - [Texmacs 笔记](/latex/texmacs.md)
 - [Tikzedt](/latex/tikzedt.md)
 
-## 博客程序
+## 博客相关
 - [gor](/blog/gor.md)
 - [hexo](/blog/exo.md)
 - [hugo](/blog/hugo.md)
@@ -35,14 +35,17 @@
 - [typecho](/blog/typecho.md)
 - [wiki in box](/blog/wiki.md)
 - [博客Mysql代码](/blog/sql.md)
-
-## html-css 
 - [301的几种实现方式](/html-css/301.md)
 - [Copyleft 符号](/html-css/copyleft.md)
-- [wikipedia-stylesheets](/html-css/wikipedia-stylesheets)
+
+## python
+- [Python学习笔记](/python/python.md)
+- [Awesome Python Books](/python/books.md)
+- [Python爬虫笔记](/python/spider.md)
 
 ## 其它
 - [awesome-open-science](awesome-open-science.md)
+- [wikipedia-stylesheets](/html-css/wikipedia-stylesheets)
 - [unblock youku pac](/softwares/youku.md)
 - [Openshift SSH](/softwares/openshift-ssh.md)
 - [同步本地文件夹](/softwares/sync.md)
