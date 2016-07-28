@@ -45,6 +45,7 @@
 
 ## 其它
 - [awesome-open-science](awesome-open-science.md)
+- [Math-links](math/mathlinks.md)
 - [wikipedia-stylesheets](/html-css/wikipedia-stylesheets)
 - [unblock youku pac](/softwares/youku.md)
 - [Openshift SSH](/softwares/openshift-ssh.md)
