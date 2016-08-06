@@ -38,6 +38,12 @@ Windows下有现成的Git for Windows，配置比较简单，详情参见参考�
 
     git config --global core.autocrlf  false
 
+## .git 文件太大时怎样处理
+
+clone的时候，可以指定深度，如下，为1即表示只克隆最近一次commit.
+
+    git clone git://xxoo --depth 1
+
 ## Github Pages 自定义网站绑定子域名
 
 1. 将`usename.github.io`绑定**顶级域名**。
