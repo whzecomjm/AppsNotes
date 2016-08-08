@@ -8,6 +8,8 @@
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)
 - [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 - [Git](https://github.com/kemayo/sublime-text-git)
+- [Material Theme](https://github.com/equinusocio/material-theme)
+- [SyncedSidebarBg](https://github.com/aziz/SublimeSyncedSidebarBg): 侧边栏颜色的修改方案
 
 ## 常用快捷键
 - `F6`: 拼写检查
@@ -40,38 +42,40 @@
 - `Ctrl + Shift + I`: 添加斜体文字
 - `Ctrl + 1~6`: 添加标题
 
+## 有关MarkdownEditing
 
+### 安装MarkdownEditing出现错误
 
-## 安装MarkdownEditing出现错误
+Sublime Text 3 通过Package control安装MarkdownEditing后，提示此错误： `error: Error loading syntax file` ，可以通过以下办法[解决](https://www.v2ex.com/t/81563)：Ctrl+Shift+P, 选择：set syntax：MultiMarkdown。  
 
-Sublime Text(3)通过Package control安装MarkdownEditing后，提示此错误： 
+### MarkdownEditing 设置（设置-更多-特定的语法-用户）
 
-> error: Error loading syntax file 
+    {
+      "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme", //主题选择
 
-可以通过以下办法[解决](https://www.v2ex.com/t/81563)：
+      "extensions": [ "md" ],
 
-> Ctrl+Shift+P   
-> set syntax markdown   
-> 选择：   
-> set syntax：MultiMarkdown   
-> 解决！
+      "highlight_line": true, 
+      "line_numbers": true,
+      "draw_centered": false,  //不居中
+    }
 
 ## 用户配置文件
 
-    "color_scheme": "Packages/Nil-Theme/Sanakan.tmTheme",
-    "default_encoding": "UTF-8",
-    "font_size": 13.5,
-    "highlight_line": true,
-    "ignored_packages":
-    [
-        "Vintage",
-        "Markdown"
-    ],
-    "update_check": false,
-    "word_wrap": "auto",
-    "hot_exit": false,
-    "remember_open_files": false
-
+    {
+        "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+        "font_size": 14,
+        "highlight_line": true,
+        "hot_exit": false,
+        "ignored_packages":
+        [
+            "Vintage",
+            "Markdown" //防止和MarkdownEditing插件冲突
+        ],
+        "theme": "Default.sublime-theme",
+        "update_check": false,
+        "word_wrap": "auto"  //自动换行列
+    }
 
 ## 安装Git后无法使用
 win7下在sublime text 2/3中安装完git插件后，在显示所在分支的地方出现乱码。解决：把git的路径放到环境变量PATH中，然后重启。
