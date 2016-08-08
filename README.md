@@ -12,6 +12,7 @@
 - [Sublime Text 使用笔记](/softwares/sublime text/sublime.md)
 - [Sublime Text 配置与插件](https://github.com/jikeytang/sublime-text/blob/master/README.md)
 - [Sublime Text 快捷键](/softwares/sublime text/Shortcuts.textile)
+- [Emeditor](/softwares/emeditor.md)
 - [Rime输入法的配置](/softwares/rime-input.md)
 - [VirtualBox/Linux 笔记](/softwares/virtualbox-linux.md)
 - [Sage 笔记](/softwares/sage.md)
