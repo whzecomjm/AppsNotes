@@ -9,9 +9,9 @@
 - [Notepad++ 配置 Markdown 实时预览](/softwares/notepad++/notepad-markdown.md)
 - [Notepad++ 常用运行脚本](/softwares/notepad++/notepad-scripts.md)
 - [Notepad++ 编辑yml文件tab失效的解决](/softwares/notepad++/notepad-tab.md)
-- [Sublime Text 使用笔记](/softwares/sublime text/sublime.md)
+- [Sublime Text 使用笔记](/softwares/sublime/sublime.md)
 - [Sublime Text 配置与插件](https://github.com/jikeytang/sublime-text/blob/master/README.md)
-- [Sublime Text 快捷键](/softwares/sublime text/Shortcuts.textile)
+- [Sublime Text 快捷键](/softwares/sublime/Shortcuts.textile)
 - [Emeditor](/softwares/emeditor.md)
 - [Rime输入法的配置](/softwares/rime-input.md)
 - [VirtualBox/Linux 笔记](/softwares/virtualbox-linux.md)
@@ -52,3 +52,5 @@
 - [Openshift SSH](/softwares/openshift-ssh.md)
 - [同步本地文件夹](/softwares/sync.md)
 - [右键新建菜单中添加 Md文件类型](/softwares/new-md-file.md)
+
+ 
