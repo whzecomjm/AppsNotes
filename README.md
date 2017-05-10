@@ -9,7 +9,7 @@
 - [Notepad++ 配置 Markdown 实时预览](/softwares/notepad++/notepad-markdown.md)
 - [Notepad++ 常用运行脚本](/softwares/notepad++/notepad-scripts.md)
 - [Notepad++ 编辑yml文件tab失效的解决](/softwares/notepad++/notepad-tab.md)
-- [Sublime Text 使用笔记](/softwares/sublime/sublime.md)
+- [Sublime Text 使用笔记](/softwares/sublime.md)
 - [Sublime Text 配置与插件](https://github.com/jikeytang/sublime-text/blob/master/README.md)
 - [Sublime Text 快捷键](/softwares/sublime/Shortcuts.textile)
 - [Emeditor](/softwares/emeditor.md)
