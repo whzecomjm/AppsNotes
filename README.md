@@ -53,6 +53,6 @@
 - ~~[移动设备使用 unblock youku](https://bbs.uku.im/t/topic/27/1)~~
 
 ## 其它
-- [awesome-open-science](awesome-open-science.md)
+- [awesome open science](https://github.com/silky/awesome-open-science)
 - [Math-links](mathlinks.md)
 - [wikipedia-stylesheets](/wikipedia-stylesheets/README.md)
