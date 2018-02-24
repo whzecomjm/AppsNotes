@@ -1,12 +1,10 @@
 # 简洁的静态博客构建工具 —— 纸小墨
 
-[toc]
+[[toc]]
 
 ## 纸小墨简介
 
 纸小墨（InkPaper）是一个使用GO语言编写的静态博客构建工具，可以快速搭建博客网站。优点是无依赖跨平台，配置简单构建快速，注重于简洁易用与排版优化。
-
-![纸小墨 - 简洁的静态博客构建工具](http://www.inkpaper.io/blog/images/example.png)
 
 ### 开始上手
 - 下载并解压 [Ink](http://www.inkpaper.io/)，运行命令 `ink preview` (linux 系统下使用`./ink preview`即可)
@@ -88,8 +86,6 @@ ink convert /path/_posts
 - Pure: [https://github.com/Xdatk/ink-pure](https://github.com/Xdatk/ink-pure)
 - Werttin: [https://github.com/Skimige/ink_Werttin](https://github.com/Skimige/ink_Werttin)
 
-## 反馈建议
+## 在线部署
 
-请报告至 [https://github.com/InkProject/ink/issues](https://github.com/InkProject/ink/issues)
-
-
+使用 [Travis CI](http://www.shery.me/blog/travis-ci.html) 可以实施在线部署ink。
