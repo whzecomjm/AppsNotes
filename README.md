@@ -45,7 +45,7 @@
 - [MathJax](/Markdown/MathJax.md)
 - [Pandoc](/Markdown/Pandoc.md) 
 - [Markdown](/Markdown/Markdown.md)
-- [Yu Writer](/Markdown/Yu Writer.md)
+- [Yu Writer](/Markdown/Yu-Writer.md)
 - [知乎与简书](/Markdown/知乎与简书.md)
 
 ## 博客相关
