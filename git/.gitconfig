@@ -1,0 +1,20 @@
+[user]
+	name = whzecomjm
+	email = whzecomjm@qq.com
+[http]
+	postBuffer = 524288000
+[core]
+	excludesfile = /.gitignore
+	quotepath = false
+[i18n]
+	logoutputencoding = utf-8
+[gui]
+	encoding = utf-8
+[alias]
+	cm = commit -am
+	st = status
+	ps = push
+
+[color]
+	ui = true
+	status = auto

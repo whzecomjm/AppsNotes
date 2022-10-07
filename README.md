@@ -16,13 +16,13 @@
 - [Sublime Text 快捷键](/softwares/sublimetext/Shortcuts.textile)
 - [Emeditor](/softwares/emeditor.md)
 - [Zotero](/softwares/Zotero.md)
-- [Rime输入法的配置](/softwares/rime-input.md)
+- [Rime输入法的配置](/windows/IME/rime-input.md)
 - [VirtualBox/Linux 笔记](/softwares/virtualbox-linux.md)
 - [Sage 笔记](/softwares/sage.md)
 - [Sed 笔记](/softwares/sed.md)
 - [Autohotkey 笔记](/softwares/AHK.md)
 - [MobaXterm](/softwares/MobaXTerm/MobaXterm.md)
-- [aria2](/softwares/aria2.md)
+- [aria2](/softwares/aria2/aria2.md)
 
 
 ## LaTeX
@@ -39,11 +39,11 @@
 
 ## Markdown
 - [Markdown-Intro](/Markdown/Markdown-Intro.md)
-- [Typora](/Markdown/Typora.md)
+- [Typora](/Markdown/Typora/Typora.md)
 - [Marp](/Markdown/Marp.md)
 - [KaTeX](/Markdown/KaTeX.md)
 - [MathJax](/Markdown/MathJax.md)
-- [Pandoc](/Markdown/Pandoc.md) 
+- [Pandoc](/Markdown/Pandoc/Pandoc.md) 
 - [Markdown](/Markdown/Markdown.md)
 - [Yu Writer](/Markdown/Yu-Writer.md)
 - [知乎与简书](/Markdown/知乎与简书.md)

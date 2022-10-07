@@ -1,0 +1,40 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+## block google analytics
+127.0.0.1 www.google-analytics.com
+
+## macsfancontrol forbid update and online registration
+127.0.0.1 crystalidea.com
+127.0.0.1 www.crystalidea.com
+127.0.0.1 v3pro.crystalidea.com
+
+
+
+## overleaf
+34.73.232.153 overleaf.com
+34.73.232.153 cn.overleaf.com
+84.17.57.11 cdn.overleaf.com
+84.17.57.9 cdn.overleaf.com
+84.17.57.5 cdn.overleaf.com
+89.187.162.22 cdn.overleaf.com
+89.187.160.49 cdn.overleaf.com
+89.187.160.11 cdn.overleaf.com
+
+## arxiv and researchgate
+128.84.21.199 arxiv.org
+198.167.223.167 gen.lib.rus.ec
+185.222.202.19 gen.lib.rus.ec
+
+## CDN
+157.230.45.115 identity.netlify.com
+157.230.43.191 identity.netlify.com
+104.16.133.229 cdnjs.cloudflare.com
+

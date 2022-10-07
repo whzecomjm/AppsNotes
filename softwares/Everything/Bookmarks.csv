@@ -1,0 +1,4 @@
+Name,Case,Whole Word,Path,Diacritic,Regex,Sort,Descending,Filter,Search,Index,File List,Host,Link Type,Macro,Key,View
+"腾讯和浏览器网易log",0,0,0,0,0,"Name",0,"EVERYTHING","*.tlg* | *.xlog | 2019-*.txt | QQCall* | *netease\*.log | *log.txt | *.odl | *.log.zip | *.xpl | *.merge | .log wemeet\ | .log todesk\",0,"","",1,"log",,0
+"电池信息临时文件",0,0,0,0,0,"Name",0,"EVERYTHING","tw-*.tmp",0,"","",1,,,0
+"Zotero PDF",0,0,0,0,0,"Name",0,"EVERYTHING","*\Zotero\storage\* *.pdf",0,"","",1,,,0

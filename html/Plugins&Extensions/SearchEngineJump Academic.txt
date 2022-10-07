@@ -1,0 +1,102 @@
+网页
+    百度, http://www.baidu.com/s?wd=%s&ie=utf-8
+    google, https://www.google.com.hk/search?q=%s&safe=off, www.google.com
+    必应, https://cn.bing.com/search?q=%s
+    搜狗微信, https://weixin.sogou.com/weixin?type=2&query=%s
+    Wolfram, http://www.wolframalpha.com/input/?i=%s
+    MathDict, https://www.impan.pl/cgi-bin/dictsearch?q=%s
+    Github, https://github.com/search?q=%s
+    知乎, http://www.zhihu.com/search?q=%s
+    维基(zh), http://zh.wikipedia.org/wiki/%s
+    维基(en), http://en.wikipedia.org/wiki/%s
+
+图片-Google
+    Google, https://www.google.com.hk/search?q=%s&tbm=isch
+    百度, http://image.baidu.cn/i?ie=utf-8&word=%s
+    必应, http://cn.bing.com/images/search?q=%s
+    //花瓣, http://huaban.com/search/?q=%s
+    //pixiv, http://www.pixiv.net/search.php?word=%s
+    //flickr, http://www.flickr.com/search/?q=%s
+    deviantART, http://www.deviantart.com/?q=%s, ASCII
+    iconfinder, https://www.iconfinder.com/search?q=%s&price=free
+
+音乐-网易云音乐
+    网易云音乐, http://music.163.com/#/search/m/?s=%s
+    百度音乐, http://music.baidu.com/search?ie=utf-8&oe=utf-8&key=%s
+    搜狗音乐, http://mp3.sogou.com/music.so?query=%s, gbk
+    QQ音乐, https://y.qq.com/n/ryqq/search?w=%s, QQMusic
+
+视频
+    B站, https://www.bilibili.com/search?keyword=%s, bilicom
+    豆瓣电影, http://movie.douban.com/subject_search?search_text=%s&cat=1002, www.douban.com
+    优酷, http://www.soku.com/search_video/q_%s, www.youku.com
+    爱奇艺, http://so.iqiyi.com/so/q_%s
+    腾讯, http://v.qq.com/search.html?ms_key=%s
+    网易公开课, http://c.open.163.com/search/search.htm?query=%s#/search/all
+    人人影视, https://www.yyets.com/?s=%s
+    youtube, http://www.youtube.com/results?search_query=%s
+
+
+学术
+    google学术, http://scholar.google.com/scholar?&q=%s
+    百度学术, http://xueshu.baidu.com/s?wd=%s, www.baidu.com
+    青梨, https://qingli.newacademic.net/#/
+    cnki, http://kns.cnki.net/kns/brief/default_result.aspx?txt_1_value1=%s&dbPrefix=SCDB&db_opt=CJFQ%2CCJFN%2CCDFD%2CCMFD%2CCPFD%2CIPFD%2CCCND%2CCCJD%2CHBRD&singleDB=SCDB&action=scdbsearch, redirect, www.cnki.net
+    Sci-hub, https://sci-hub.se/%s
+    读秀(中文期刊), https://jour.duxiu.com/searchJour?Field=all&channel=searchJour&sw=%s&edtype=&searchtype=&view=0&ecode=utf-8
+    独秀(jour-en), https://fjour.blyun.com/searchFJour?Field=all&channel=searchFJour&sw=%s&edtype=&view=0
+    springer, http://rd.springer.com/search?query=%s, springer
+    SCI期刊影响因子, https://www.iikx.com/e/action/ListInfo.php?title=%s&classid=125%2C124%2C126%2C127%2C128%2C129%2C130%2C131%2C132%2C133%2C134%2C135%2C123%2C136&jcr21=&orderby=IF2021&ph=1&jcr21Selected=
+    hedasudi镜像导航, http://scholar.hedasudi.com/
+    scmor镜像导航, https://ac.scmor.com/
+
+图书-Libgen
+    Libgen, http://libgen.rs/search.php?req=%s
+    Z-lib, https://zh.booksc.xyz/s/%s?
+    豆瓣读书, http://book.douban.com/subject_search?search_text=%s, www.douban.com
+    读秀图书, https://book.duxiu.com/search?Field=&channel=search&sw=%s&edtype=&searchtype=&view=0&ecode=utf-8
+    谷歌图书, https://www.google.com/search?q=%s&safe=off&tbm=bks&gws_rd=cr,ssl, www.google.com.hk
+
+知识
+    独秀, https://qw.duxiu.com/getPage?sw=%s&ecode=utf-8
+    WikiHow, https://zh.wikihow.com/wikiHowTo?search=%s
+    丁香园, http://drugs.dxy.cn/search/drug?keyword=%s
+    百度百科, http://baike.baidu.com/search/word?pic=1&sug=1&word=%s
+    百度文库(HZU), https://eduai.baidu.com/list?query=%s
+    百度文库, http://wenku.baidu.com/search?word=%s&ie=utf-8
+    豆丁文档, http://www.docin.com/search.do?searchcat=2&searchType_banner=p&nkey=%s
+    百度知道, http://zhidao.baidu.com/search?word=%s
+    mathoverflow, https://math.stackexchange.com/search?q=%s
+    stackoverflow, http://stackoverflow.com/search?q=%s
+
+翻译
+    google翻译, https://translate.google.cn/?q=%s
+    deepL翻译, https://www.deepl.com/translator#en/zh/%s
+    百度翻译, http://fanyi.baidu.com/#auto/zh/%s
+    bing 翻译, http://www.bing.com/translator/?&text=%s&from=&to=zh-chs
+    有道词典, http://dict.youdao.com/search?q=%s
+    必应词典, http://www.bing.com/dict/search?q=%s&go=&qs=bs&form=CM
+    万词王-反向词典, https://wantwords.net/
+
+社交
+    新浪微博, http://s.weibo.com/weibo/%s
+    豆瓣, http://www.douban.com/search?source=suggest&q=%s
+    百度贴吧, http://tieba.baidu.com/f?kw=%s&ie=utf-8
+    Twitter, https://twitter.com/search/%s
+
+购物
+    淘宝, http://s.taobao.com/search?q=%s
+    京东, http://search.jd.com/Search?keyword=%s&enc=utf-8
+    当当, http://search.dangdang.com/search.php?key=%s, gbk
+    亚马逊, http://www.amazon.cn/s/ref=nb_sb_noss?field-keywords=%s
+
+软件
+    果核, https://www.ghxi.com/?s=%s
+    殁漂遥, https://www.mpyit.com/?s=%s
+    Chrome 商店, https://chrome.google.com/webstore/search-extensions/%s?hl=zh-CN
+    Edge 商店, https://microsoftedge.microsoft.com/addons/search/%s?hl=zh-CN
+    Greasyfork, https://greasyfork.org/scripts/search?q=%s
+    macwk, https://macwk.com/soft/all/s-%s%20/p1
+    前线乐园, https://www.yijingying.com/?s=%s
+    吾爱破解, http://zhannei.baidu.com/cse/site?q=%s&click=1&cc=52pojie.cn&s=&nsid=
+    小众软件, https://www.appinn.com/?s=%s
